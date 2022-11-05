@@ -15,7 +15,7 @@ preview:NewButton("GUI without entities that can kill", function()
     --Kill Gui
 
 preview1:NewButton("Execute Kill", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Quantiium/DoorsScript/main/KillUI.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bendysammy/bendy/main/KillUI.lua?token=GHSAT0AAAAAAB22CW4J6NKPSRXYV6TCHHDKY3GMJMA"))()
     end)
 
 preview1:NewButton("Normal GUI that entities kill", function()
